@@ -3,7 +3,7 @@
 this is for Raspberrypi-4
 for testing purpose - Autonomous truck !
 
-Building the Yocto rpi-4 65 bit Image
+Building the Yocto rpi-4 64 bit Image
 
 follow the steps please
 
